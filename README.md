@@ -6,9 +6,16 @@ Requirement Analysis is a critical phase in the software development lifecycle (
 
 ## Why is Requirement Analysis Important?
 #### 1.Clear Vision: Ensures that the development team has a clear understanding of what the software should do.
-### 2.Efficient Development: Prevents costly rework by identifying and addressing potential issues early on.   
-### 3.Quality Assurance: Helps to deliver a product that meets the specific needs and expectations of the users.   
-### 4.Risk Mitigation: Reduces the risk of project failure by minimizing misunderstandings and scope creep.
+#### 2.Efficient Development: Prevents costly rework by identifying and addressing potential issues early on.   
+#### 3.Quality Assurance: Helps to deliver a product that meets the specific needs and expectations of the users.   
+#### 4.Risk Mitigation: Reduces the risk of project failure by minimizing misunderstandings and scope creep.
+
+## Key Activities in Requirement Analysis
+### 1.Requirement Gathering: Requirement gathering is the initial and crucial phase of any software development project. It involves identifying, documenting, and analyzing the specific needs and expectations of the end-users and stakeholders for the software product
+### 2.Requirement Elicitation
+### 3.Requirement Documentation
+### 4.Requirement Analysis and Modeling
+### 5.Requirement Validation.
 
    
 
