@@ -46,5 +46,10 @@ The system should be available 24/7 with minimal downtime.
 The system should be easy to use for both hotel managers and customers.
 The user interface should be intuitive and user-friendly.
 
-   
+
+## Use Case Diagrams
+A use case diagram is a visual representation of the interactions between users and a system. It provides a high-level overview of the system's functionality and helps to identify the key features and scenarios.
+![alx-booking-uc](https://github.com/user-attachments/assets/7a569dd8-b42a-4dbd-a672-a6006ecca507)
+
+
 
