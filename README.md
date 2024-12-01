@@ -51,5 +51,7 @@ The user interface should be intuitive and user-friendly.
 A use case diagram is a visual representation of the interactions between users and a system. It provides a high-level overview of the system's functionality and helps to identify the key features and scenarios.
 ![alx-booking-uc](https://github.com/user-attachments/assets/7a569dd8-b42a-4dbd-a672-a6006ecca507)
 
+## Acceptance Criteria
+Acceptance criteria are specific conditions or standards that a software feature or product must meet to be considered complete and acceptable. They provide a clear and measurable definition of success, ensuring that both the development team and the stakeholders are aligned on the desired outcome.
 
 
