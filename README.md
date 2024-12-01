@@ -13,9 +13,9 @@ Requirement Analysis is a critical phase in the software development lifecycle (
 ## Key Activities in Requirement Analysis
 ### 1. Requirement Gathering: Requirement gathering is the initial and crucial phase of any software development project. It involves identifying, documenting, and analyzing the specific needs and expectations of the end-users and stakeholders for the software product
 ### 2. Requirement Elicitation Requirement elicitation is the process of identifying, documenting, and analyzing the specific needs and expectations of the end-users and stakeholders for a software product. It's the first and most crucial step in the software development lifecycle.
-### 3. Requirement Documentation: 
-### 4.Requirement Analysis and Modeling
-### 5.Requirement Validation.
+### 3. Requirement Documentation: Requirement documentation is the process of creating detailed, unambiguous, and verifiable specifications for a software product. It serves as a blueprint for the development team, ensuring that the final product meets the needs and expectations of the stakeholders.
+### 4.Requirement Analysis and Modeling: Requirement analysis and modeling is a crucial phase in the software development lifecycle. It involves understanding, documenting, and visualizing the functional and non-functional requirements of a software system.
+### 5.Requirement Validation: Requirement validation is a critical step in the software development lifecycle, ensuring that the elicited and documented requirements accurately reflect the needs and expectations of the stakeholders. It helps to identify and rectify errors, inconsistencies, and ambiguities in the requirements before the development phase begins.
 
    
 
