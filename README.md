@@ -19,30 +19,30 @@ Requirement Analysis is a critical phase in the software development lifecycle (
 
 ## Types of Requirements
 ### Functional Requirement:
-#### Hotel Management Service:
+#### 1. Hotel Management Service:
 Hotel managers can add, update, and delete hotel information (e.g., name, location, description, amenities, photos).
 Hotel managers can set room availability and pricing.
 Hotel managers can manage booking requests.
-#### Customer Service:
+#### 2. Customer Service:
 Users can search for hotels based on various criteria (e.g., location, date, price, amenities).
 Users can view details of available hotels (e.g., description, photos, amenities).
 Users can book a hotel room.
 Users can cancel or modify an existing booking.
-#### View Booking Service:
+#### 3. View Booking Service:
 Users can view all their current and past booking details (e.g., hotel name, dates, room type, price).
 ### Non-Functional Requirement:
-#### Performance:
+#### 1. Performance:
 The system should be able to handle a high volume of requests efficiently.
 The search results should be displayed quickly.
 The booking process should be fast and easy to complete.
-#### Scalability:
+#### 2. Scalability:
 The system should be able to scale to accommodate a growing number of users and hotels.
-#### Security:
+#### 3. Security:
 The system must be secure against unauthorized access and data breaches.
 User's personal information and payment details must be encrypted.
-#### Availability:
+#### 4. Availability:
 The system should be available 24/7 with minimal downtime.
-#### Usability:
+#### 5. Usability:
 The system should be easy to use for both hotel managers and customers.
 The user interface should be intuitive and user-friendly.
 
